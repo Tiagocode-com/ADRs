@@ -31,7 +31,7 @@ slow releasing cycles, and it is mostly driven by a single owner).
 * We will benefit with the most of the features already offer by the framework like Type Safe,
 Logging, Routing system, Extractors, Responders, Form Handling, etc.
 
-* Some features like templates are not already integrated with the framework, but we can "easily" extend
-the framework to add the feature, and it will require us more effort.
+* Some features like templates are not already integrated with the framework, we can "easily" extend
+the framework to add the feature thought, but it will require us more effort.
 
 
