@@ -9,7 +9,7 @@ The collection of architectural decision records. These decisions use the
 
 ## Infrastructure
 
-1. [INF-1 Use Actix-web for Back-office](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/INF-1-Use-Actix-web-for-back-office.md)
+1. [INF-1 Back-office use Actix-web](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/INF-1-back-office-use-actix-web.md)
 
 ## Project Design
 
