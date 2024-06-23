@@ -5,11 +5,13 @@ The collection of architectural decision records. These decisions use the
 
 ## Operating model
 
-1. [OPM-1 Decision tracking](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/OPM-1-Decision-tracking.md)
+- [OPM-1 Decision tracking](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/OPM-1-Decision-tracking.md)
 
 ## Infrastructure
 
-1. [INF-1 Back-office use Actix-web](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/INF-1-back-office-use-actix-web.md)
+- [INF-1 Back-office use Actix Web](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/INF-1-back-office-use-actix-web.md)
+
+- [INF-2 GitHub for repository management](https://github.com/Tiagocode-com/ADRs/blob/main/decisions/INF-2-github-for-repository-management.md)
 
 ## Project Design
 
