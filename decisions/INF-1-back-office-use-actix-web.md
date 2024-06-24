@@ -1,4 +1,4 @@
-# INF-1: Back-office - Use Actix Web framework
+# INF-1: [Back-office] Use Actix Web framework
 
 Date: 23-06-2024
 
